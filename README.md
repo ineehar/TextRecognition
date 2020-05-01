@@ -13,7 +13,4 @@ Google Mobile Vision API can also be used for barcode and face detection.
 # Troubleshooting
 Text recognition API need to download few files. Download will initiate at the time of installation but it may take a few moment. Util then app will not be able to use Vision API. In that case please wait few moment and try again.
 
-# Screen Shot
-![android_text_screen_shot](https://i.imgur.com/Wd2meo7.png)
 
-![android_text_screen_shot](https://i.imgur.com/UPlb1iO.png)
